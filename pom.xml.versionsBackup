@@ -5,7 +5,7 @@
 
 	<groupId>com.cloudbees.test.kubernetes</groupId>
 	<artifactId>test-jx-import-2018-02-08</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>test-jx-import-2018-02-08</name>
